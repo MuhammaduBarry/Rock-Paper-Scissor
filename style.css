@@ -62,3 +62,15 @@ p {
     text-transform: capitalize;
 }
 
+.restart-btn{
+    padding: 1rem 1.5rem;
+    border-radius: 1.5rem;
+    border-color:  green;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: green;
+    text-transform: capitalize;
+}
+
